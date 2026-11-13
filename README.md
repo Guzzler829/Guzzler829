@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Guzzler829
-- 👀 I’m interested in music, art, languages, cooking, baking, and politics!
+### Hi
+I like coding :)
 
 <!---
 Guzzler829/Guzzler829 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
